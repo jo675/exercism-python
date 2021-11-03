@@ -1,2 +1,2 @@
 # exercism-python
-Solutions to exercism python
+solutions to exercism python
